@@ -6,7 +6,7 @@ $_SESSION["users"]=[
     [
         "fullName" => "admin",
         "email" => "admin@mail.com",
-        "password" =>"123",
+        "password" =>"1234",
         "role" => "admin",
         "isActive" => true,
     ],
